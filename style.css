@@ -1,0 +1,69 @@
+/* Add all your styles here */
+body {
+  font-family: sans-serif;
+  color: #777777;
+  line-height: 26px;
+}
+
+.purple {
+  color: #8845f4;
+}
+
+.half-width {
+  width: 50%;
+  float: left;
+}
+
+h1{
+  font-size: 1.5em;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-transform: uppercase;
+  margin: 15% 5px 10px;
+}
+
+h3 {
+  font-size: 18px;
+  text-align: left;
+  margin: 0 5px 0;
+}
+
+h4 {
+  margin: 10px auto 40px 5px;
+  text-transform: capitalize;
+}
+
+.side-img {
+  width: 100%;
+  margin: 15% auto auto;
+  padding-left: auto;
+}
+
+.primary-btn {
+  background: #8845f4;
+  color: white;
+  border-radius: 20px;
+  padding: 13px 42px 13px 42px;
+  margin: 5% auto 2% 5px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.experience-item {
+  padding: 10px;
+  border-left: 1px solid rgba(137, 130, 247, .2);
+}
+
+.container {
+  padding-left: 5%;
+  display: inline-block;
+}
+
+.experiences {
+  padding: 30px;
+  margin: 30px;
+  background: rgb(238, 251, 255);
+  border-radius: 20px;
+}
