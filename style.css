@@ -45,14 +45,14 @@ h4 {
   display: inline-block;
 }
 
-.container.experiences {
+.experiences {
   padding: 30px;
   margin: 30px;
   background: rgb(238, 251, 255);
   border-radius: 20px;
 }
 
-experience-item {
+.experience-item {
   padding: 10px;
   border-left: 1px solid rgba(137, 130, 247, .2);
 }
